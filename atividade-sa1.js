@@ -1,4 +1,4 @@
-// Se a peça possuir um peso superior a 100 gramas, pode cadastrar.
+// Se a peça possuir um peso superior a 100 gramas, pode cadastrar. 
 
 // Dada a capacidade de cada caixa, caso a lista de peças seja superior a 10, imprima uma mensagem informando não ter capacidade suficiente.
 
